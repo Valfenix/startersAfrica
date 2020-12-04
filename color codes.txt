@@ -1,0 +1,4 @@
+Blue = #187fc2
+Yellow = #f8ad00
+Green = #30b24d
+Red = #cc312b
